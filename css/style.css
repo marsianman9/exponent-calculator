@@ -79,7 +79,7 @@ body {
   z-index: 1;
   color: #000;
   opacity: 0;
-  transition: .1s;
+  transition: .3s;
  }
   .calc-content .base {
     display: flex;
